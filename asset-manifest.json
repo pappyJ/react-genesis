@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-genesis/static/css/main.6b55c9fa.chunk.css",
+    "main.js": "/react-genesis/static/js/main.b6228d17.chunk.js",
+    "main.js.map": "/react-genesis/static/js/main.b6228d17.chunk.js.map",
+    "runtime-main.js": "/react-genesis/static/js/runtime-main.da15a77d.js",
+    "runtime-main.js.map": "/react-genesis/static/js/runtime-main.da15a77d.js.map",
+    "static/js/2.3ed857da.chunk.js": "/react-genesis/static/js/2.3ed857da.chunk.js",
+    "static/js/2.3ed857da.chunk.js.map": "/react-genesis/static/js/2.3ed857da.chunk.js.map",
+    "index.html": "/react-genesis/index.html",
+    "precache-manifest.ccf15ab308ae409e84be71b7d6631ca3.js": "/react-genesis/precache-manifest.ccf15ab308ae409e84be71b7d6631ca3.js",
+    "service-worker.js": "/react-genesis/service-worker.js",
+    "static/css/main.6b55c9fa.chunk.css.map": "/react-genesis/static/css/main.6b55c9fa.chunk.css.map",
+    "static/js/2.3ed857da.chunk.js.LICENSE.txt": "/react-genesis/static/js/2.3ed857da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da15a77d.js",
+    "static/js/2.3ed857da.chunk.js",
+    "static/css/main.6b55c9fa.chunk.css",
+    "static/js/main.b6228d17.chunk.js"
+  ]
+}
